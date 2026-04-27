@@ -25,7 +25,7 @@ git clone https://github.com/ParthL001/Simon-Game.git
 Open the project folder.
 
 Run the game:
-[text](https://parthl001.github.io/Simon-Game/)
+[Simon Game](https://parthl001.github.io/Simon-Game/)
 🎮 How to Play
 
 Press any key to start the game.
