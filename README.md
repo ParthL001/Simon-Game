@@ -17,27 +17,24 @@ HTML5 – Structure of the game
 CSS3 – Styling and animations
 JavaScript (ES6) – Game logic
 jQuery – Event handling and DOM manipulation
-📂 Project Structure
-Simon-Game/
-│── index.html      # Main HTML file
-│── styles.css      # Styling
-│── game.js         # Game logic
-│── sounds/         # Sound effects (red, blue, green, yellow, wrong)
-▶️ How to Run
 
+▶️ How to Run
 Download or clone the repository:
 
 git clone https://github.com/ParthL001/Simon-Game.git
 Open the project folder.
+
 Run the game:
 [text](https://parthl001.github.io/Simon-Game/)
 🎮 How to Play
+
 Press any key to start the game.
 Watch the sequence of colors carefully.
 Click the buttons in the same order.
 Each level adds a new color to the sequence.
 If you make a mistake, the game ends.
 Press any key to restart.
+
 🧠 Game Logic 
 The game stores:
 gamePattern → generated sequence
